@@ -3,3 +3,5 @@ github:
   - name: MikeVasylchenko
     repositories:
     - name: repo2
+      - includes:
+        - pom.xml
